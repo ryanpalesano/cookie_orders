@@ -1,7 +1,7 @@
-# Build a modularized CRUD application with a database.
-# Validate user input.
-# Display error messages to the client using flash messages.
-# Redirect to the same page to show errors on create as well as on edit.
+Build a modularized CRUD application with a database.
+Validate user input.
+Display error messages to the client using flash messages.
+Redirect to the same page to show errors on create as well as on edit.
 
 [ ] Create a new schema and table for cookie orders and forward engineer
 
